@@ -1,4 +1,5 @@
-Build the following Text-Based Adventure Game: 
+Build the following Text-Based Adventure Game
+
 Game Description: 
 In this text-based adventure game, you play the role of an adventurer trapped in the mystifying ”Castle of Illusions”. Each room within the castle contains unique challenges and rewards. Your ultimate goal is to discover the secret exit that leads to the outside world. However, navigating through the castle isn’t as easy as it may seem - certain rooms are accessible only if you possess specific items. 
 Game Map: Your adventure unfolds across the following rooms, each inter connected as shown below: 
@@ -11,7 +12,7 @@ Entrance Hall -------> Dining Room -------> Kitchen
       |                      |                    /
 Throne Room -------------> Wizards Study --------/ 
 
-
+Rooms Description:
 • Entrance Hall: The grand foyer of the Castle of Illusions. • Dining Room: A room with a large table filled with an everlasting feast. • Kitchen: A room packed with peculiar ingredients. 
 • Armoury: A chamber filled with antiquated weapons and armour. • Treasury: A glittering room overflowing with gold and gemstones. • Library: A vast repository of ancient and enchanted texts. • Pantry: A storage area for the Kitchen. 
 • Throne Room: The command center of the castle. 
