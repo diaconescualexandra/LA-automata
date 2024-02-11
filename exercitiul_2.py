@@ -1,5 +1,3 @@
-# Radu Ioana Alexandra - grupa 141
-# Diaconescu Alexandra - grupa 144
 
 import os
 
